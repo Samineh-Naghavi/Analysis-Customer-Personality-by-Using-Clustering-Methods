@@ -93,6 +93,6 @@ Customer personality analysis helps a business to modify its product based on it
 <br /> •	NumStorePurchases: Number of purchases made directly in stores
 <br /> •	NumWebVisitsMonth: Number of visits to company’s web site in the last month
 ## Target
-**Need to perform clustering to summarize customer segments.**
+**Need to perform clustering to summarize customer segments.In this repository I clustered customer based on their consomption amount spent on meat and fruits in last 2 years **
 
 
